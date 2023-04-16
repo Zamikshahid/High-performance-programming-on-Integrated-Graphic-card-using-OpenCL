@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Opencl-ex3",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Opencl-ex3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Opencl-ex3-Debug-e9848d73e95076389a2a.json",
+					"name" : "Opencl-ex3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/DATA/University of stuttgart/COURSES/4th semester/GPU Lab/Exercise 5/OpenCLExercise5_PrefixSum/out/build/x64-Debug",
+		"source" : "D:/DATA/University of stuttgart/COURSES/4th semester/GPU Lab/Exercise 5/OpenCLExercise5_PrefixSum"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

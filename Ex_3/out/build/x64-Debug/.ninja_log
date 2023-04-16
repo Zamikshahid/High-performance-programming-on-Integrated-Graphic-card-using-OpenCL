@@ -1,0 +1,20 @@
+# ninja log v5
+38	177	6741312984986325	CMakeFiles/Opencl-ex3.dir/Core/StrError.c.obj	39357bb750eff1df
+46	891	6741312992184786	CMakeFiles/Opencl-ex3.dir/Core/Type.cpp.obj	38577940a66959e3
+11	1097	6741312994202862	CMakeFiles/Opencl-ex3.dir/Core/Error.cpp.obj	d09806d9a4574a2b
+8	1113	6741312994441191	CMakeFiles/Opencl-ex3.dir/Core/Assert.cpp.obj	addd03c79228589c
+42	1178	6741312994847210	CMakeFiles/Opencl-ex3.dir/Core/TimeSpan.cpp.obj	db31b17276724f7b
+4	1463	6741312997749360	CMakeFiles/Opencl-ex3.dir/Core/CheckedCast.cpp.obj	3bae907c13b5ca91
+30	1200	6741312995315853	CMakeFiles/Opencl-ex3.dir/Core/NumericException.cpp.obj	526893aa61c9f84a
+19	1249	6741312995784492	CMakeFiles/Opencl-ex3.dir/Core/Memory.cpp.obj	ab92fd86897d4f8
+49	1960	6741313002912002	CMakeFiles/Opencl-ex3.dir/Core/WindowsError.cpp.obj	ef7e3896d3e5d133
+35	1978	6741313003068215	CMakeFiles/Opencl-ex3.dir/Core/Time.cpp.obj	2de5df8ceb8aac40
+1098	3060	6741313013985481	CMakeFiles/Opencl-ex3.dir/OpenCL/Event.cpp.obj	c7e7cb2081a02c49
+15	2065	6741313004005526	CMakeFiles/Opencl-ex3.dir/Core/Image.cpp.obj	69b51f35004bb890
+27	2321	6741313006504906	CMakeFiles/Opencl-ex3.dir/Core/Exception.cpp.obj	380458aa1f6ed21a
+23	2331	6741313006661126	CMakeFiles/Opencl-ex3.dir/OpenCL/Device.cpp.obj	c8bb8a79973790d0
+2158	2922	6741417240982561	Opencl-ex3.exe	87773f2a5f72de95
+178	2580	6741313009061963	CMakeFiles/Opencl-ex3.dir/OpenCL/GetError.cpp.obj	65785110ae54d6cb
+14	1304	6741413211633144	CMakeFiles/Opencl-ex3.dir/OpenCL/Error.cpp.obj	18095a50a1a788ce
+10	2157	6741417234008476	CMakeFiles/Opencl-ex3.dir/src/OpenCLExercise3_Sobel.cpp.obj	62869cb6f6fde23d
+1113	4340	6741313026675783	CMakeFiles/Opencl-ex3.dir/OpenCL/Program.cpp.obj	7e74b725b13bed3e
