@@ -1,0 +1,3 @@
+D:/DATA/University of stuttgart/COURSES/4th semester/GPU Lab/Exercise 6/Windows version/Opencl-exercise-windows/Opencl-exercise/out/build/x64-Debug/CMakeFiles/Opencl-ex1.dir
+D:/DATA/University of stuttgart/COURSES/4th semester/GPU Lab/Exercise 6/Windows version/Opencl-exercise-windows/Opencl-exercise/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/DATA/University of stuttgart/COURSES/4th semester/GPU Lab/Exercise 6/Windows version/Opencl-exercise-windows/Opencl-exercise/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
